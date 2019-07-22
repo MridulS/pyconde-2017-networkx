@@ -1,4 +1,5 @@
-# PyConDE 2017 NetworkX
+# PyConDE 2017 NetworkX [Not Mainainted]
+# Check https://github.com/MridulS/pydata-networkx for the latest version
 
 ### Set Up
 
